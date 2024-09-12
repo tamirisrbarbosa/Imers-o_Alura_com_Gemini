@@ -1,4 +1,4 @@
-📚 ##Biblioteca Virtual: Desenvolvida na Imersão Dev Alura x Gemini
+📚 **Biblioteca Virtual: Desenvolvida na Imersão Dev Alura x Gemini**
 
 
 Este projeto foi criado durante a Imersão Dev Alura em parceria com o Gemini, sob a orientação dos incríveis instrutores Guilherme Lima, Rafaella Ballerini e Luciano Martins. 
