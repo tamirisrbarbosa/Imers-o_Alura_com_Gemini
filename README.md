@@ -57,5 +57,6 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma
 
 📄 *Imersão Dev Alura x Gemini*
 Link sobre a Imersão: https://www.linkedin.com/posts/aluracursos_tech-javascript-googlegemini-activity-7231438010196656128-6_ap?utm_source=share&utm_medium=member_desktop;
+
 Link da foto usada no projeto: https://unsplash.com/pt-br/fotografias/escada-de-madeira-preta-ao-lado-da-estante-de-madeira-marrom--Pg63JThyCg
 
