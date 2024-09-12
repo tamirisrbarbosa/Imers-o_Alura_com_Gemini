@@ -15,13 +15,13 @@ O projeto se trata de uma aplicação simples para pesquisar e explorar uma list
 
 
 
-🚀 **Visão Geral**
+🚀 **Visão Geral**: 
 Este projeto é uma aplicação web que permite pesquisar livros a partir de uma lista pré-definida. Com uma interface limpa e simples, você pode encontrar informações sobre livros com base em seus títulos, descrições ou tags.
 
 
 
 
-*Funcionalidades Principais*
+*Funcionalidades Principais*: 
 Pesquisa de Livros: Encontre livros recomendados digitando o nome do livro ou autor.
 Resultados Detalhados: Visualize o título, descrição e um link para mais informações sobre cada livro.
 Design Responsivo: A aplicação é adaptada para diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
@@ -30,7 +30,7 @@ Design Responsivo: A aplicação é adaptada para diferentes tamanhos de tela, g
 
 
 
-🛠️ **Tecnologias Utilizadas**
+🛠️ **Tecnologias Utilizadas**:  
 HTML: Estrutura básica da página.
 CSS: Estilos e layout responsivo.
 JavaScript: Funcionalidade de pesquisa e exibição de resultados.
@@ -40,7 +40,7 @@ Gemini: Utilizado para melhorar o projeto.
 
 
 
-🌐 **Demonstração**
+🌐 **Demonstração**:  
 Você pode visualizar o projeto em este link (https://imersao-alura-com-gemini.vercel.app/).
 
 
